@@ -32,11 +32,11 @@ a single Nvidia GeForce 3090.
 
 1. Configuring your environment (Prerequisites):
    
-    + Installing necessary packages: `pip install -r requirements.txt`.
+   + Installing necessary packages: `pip install -r requirements.txt`.
 
 2. Downloading necessary data:
 
-DeepLab initialization can be downloaded through this [line](https://drive.google.com/file/d/1dk_4JJZBj4OZ1mkfJ-iLLWPIulQqvHQd/view?usp=sharing).
+   + DeepLab initialization can be downloaded through this [line](https://drive.google.com/file/d/1dk_4JJZBj4OZ1mkfJ-iLLWPIulQqvHQd/view?usp=sharing).
    
 3. Training Configuration:
 
