@@ -14,12 +14,22 @@
 
 
 ### 2.2. Framework Overview
-
+<p align="center">
+    <img src="imgs/framework.png"/> <br />
+    <em>
+    Figure 1: Overview architecture of our model.
+    </em>
+</p>
 
 
 ### 2.3. Qualitative Results
 
-
+<p align="center">
+    <img src="imgs/qualitative_results.png"/> <br />
+    <em> 
+    Figure 2: Qualitative Results.
+    </em>
+</p>
 
 ## 3. Proposed Baseline
 
@@ -60,5 +70,3 @@ Please cite our paper if you find the work useful:
 
 The source code is free for research and education use only. Any commercial use should get formal permission first.
 
-
-# This paper is currently undergoing a review process and we will release further details once it has been accepted.
