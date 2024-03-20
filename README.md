@@ -15,7 +15,7 @@
 
 ### 2.2. Framework Overview
 <p align="center">
-    <img src="imgs/framework.png"/> <br />
+    <img src="imgs/framework.jpg"/> <br />
     <em>
     Figure 1: Overview architecture of our model.
     </em>
@@ -25,7 +25,7 @@
 ### 2.3. Qualitative Results
 
 <p align="center">
-    <img src="imgs/qualitative_results.png"/> <br />
+    <img src="imgs/qualitative_results.jpg"/> <br />
     <em> 
     Figure 2: Qualitative Results.
     </em>
