@@ -14,22 +14,10 @@
 
 
 ### 2.2. Framework Overview
-<p align="center">
-    <img src="imgs/framework.jpg"/> <br />
-    <em>
-    Figure 1: Overview architecture of our model.
-    </em>
-</p>
 
 
 ### 2.3. Qualitative Results
 
-<p align="center">
-    <img src="imgs/qualitative_results.jpg"/> <br />
-    <em> 
-    Figure 2: Qualitative Results.
-    </em>
-</p>
 
 ## 3. Proposed Baseline
 
