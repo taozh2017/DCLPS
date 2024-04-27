@@ -46,7 +46,7 @@ a single Nvidia GeForce 3090.
    + DeepLab initialization can be downloaded through this [line](https://drive.google.com/file/d/1dk_4JJZBj4OZ1mkfJ-iLLWPIulQqvHQd/view?usp=sharing).
    
 3. Training Configuration:
-   + just run 'sh run.sh' to train our model.
+   + just run: 'sh run.sh' to train our model.
 
 4. Testing Configuration:
 
