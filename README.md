@@ -1,11 +1,16 @@
 # Domain-interactive Contrastive Learning and Prototypeguided Self-training for Cross-domain Polyp Segmentation
 
-> **Authors:** 
-
+> **Authors:**
+> 
+> *Ziru Lu*, 
+> [*Yizhe Zhang*](https://yizhezhang.com/),
+> [*Yi Zhou*](https://cse.seu.edu.cn/2021/0303/c23024a362239/page.htm), 
+> [*Ye Wu*](https://dryewu.github.io/),
+> and [*Tao Zhou*](https://taozh2017.github.io)
 
 ## 1. Preface
 
-- This repository provides code for "_**Domain-interactive Contrastive Learning and Prototypeguided Self-training for Cross-domain Polyp Segmentation (DCLPS)**_" under review. 
+- This repository provides code for "_**Domain-interactive Contrastive Learning and Prototypeguided Self-training for Cross-domain Polyp Segmentation (DCLPS)**_" IEEE TMI 2024. 
 
 
 ## 2. Overview
