@@ -68,6 +68,16 @@ This code is heavily based on the open-source implementations from [FDA](https:/
 
 Please cite our paper if you find the work useful: 
     
+        @ARTICLE{10636198,
+          author={Lu, Ziru and Zhang, Yizhe and Zhou, Yi and Wu, Ye and Zhou, Tao},
+          journal={IEEE Transactions on Medical Imaging}, 
+          title={Domain-interactive Contrastive Learning and Prototype-guided Self-training for Cross-domain Polyp Segmentation}, 
+          year={2024},
+          volume={},
+          number={},
+          pages={1-1},
+          keywords={Prototypes;Training;Contrastive learning;Adaptation models;Uncertainty;Image segmentation;Semantics;Polyp segmentation;unsupervised domain adaptation;contrastive learning;self-training},
+          doi={10.1109/TMI.2024.3443262}}
 
 ## 6. License
 
