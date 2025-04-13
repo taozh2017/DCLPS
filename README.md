@@ -60,7 +60,6 @@ a single Nvidia GeForce 3090.
 
 
 ### 3.3 Pre-computed maps: 
-   + Pre-computed maps will be uploaded later.
 ## 4. Acknowledgments
 This code is heavily based on the open-source implementations from [FDA](https://github.com/YanchaoYang/FDA) and [MPSCL](https://github.com/TFboys-lzz/MPSCL) 
 
