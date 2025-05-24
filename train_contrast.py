@@ -230,9 +230,9 @@ def seed_it(seed):
     # torch.backends.cudnn.enabled = False
 
 def main():
-    seed_it(args.seed)
     opt = TrainOptions()
     args = opt.initialize()
+    seed_it(args.seed)
     os.environ["CUDA_VISIBLE_DEVICES"] = args.GPU
     _t = {'iter time' : Timer()}
     if not os.path.exists(args.snapshot_dir):
